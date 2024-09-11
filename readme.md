@@ -9,7 +9,7 @@ git clone https://github.com/osf4/proxytelegram
 1. Create ```config.yaml``` file
 2. Put that lines into the file:
    
-```
+```yaml
 # MongoDB settings
 database:
   host: 'localhost'
