@@ -1,0 +1,4 @@
+
+
+class ProxyTelegramException(Exception):
+    pass
