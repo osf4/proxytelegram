@@ -24,4 +24,5 @@ bot:
   greeting_message: 'Hi!' # Not required
 ```
 
-3. run ```python3 main.py```
+3. Run ```pip install -r requirements.txt```
+4. Run ```python3 main.py```
